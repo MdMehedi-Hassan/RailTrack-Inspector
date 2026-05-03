@@ -139,3 +139,8 @@ To enhance transparency and reliability, Explainable Artificial Intelligence tec
 The proposed framework provides an integrated and deployable solution combining accurate defect detection, geolocation, explainability, and practical system implementation. Although validated using railway infrastructure data from Bangladesh, the approach remains scalable and adaptable to broader global railway networks, supporting safer and more efficient railway maintenance operations.
 
 ---
+
+
+## Dataset-
+https://drive.google.com/file/d/1vA4P1DXYCCCl0qE-uZXWvrapMrHqmeEm/view?usp=drive_link
+https://drive.google.com/file/d/10CpUquL_zzXQEoAJgRc0_exiWBxHPDXs/view?usp=drive_link
