@@ -101,8 +101,6 @@ This observation confirms that the model has learned meaningful feature represen
 ## Explainability with Grad-CAM
 
 <img width="1212" height="2977" alt="3" src="https://github.com/user-attachments/assets/2f50bfb7-404e-4cec-83d1-b1361e1984b4" />
-<img width="1199" height="2977" alt="4" src="https://github.com/user-attachments/assets/010b9ba1-fe42-4661-beee-7a4a6e2e87d0" />
-<img width="1223" height="2985" alt="5" src="https://github.com/user-attachments/assets/9a383d02-7021-48bb-bde6-3c3644f6b064" />
 
 ---
 
