@@ -39,7 +39,8 @@ The trained model is integrated into a lightweight web application designed for 
 
 ### Proposed System Workflow
 
-<img width="350" height="500" alt="Flow-chart drawio" src="https://github.com/user-attachments/assets/96c5bd78-b657-4637-80ae-e89ef7046841" />
+<img width="200" height="500" alt="Flow-chart drawio" src="https://github.com/user-attachments/assets/96c5bd78-b657-4637-80ae-e89ef7046841" /><img width="200" height="500" alt="4" src="https://github.com/user-attachments/assets/b6ac6371-35f5-4aa4-a9ad-e84136624ab4" />
+
 
 ---
 
