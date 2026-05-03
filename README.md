@@ -39,8 +39,7 @@ The trained model is integrated into a lightweight web application designed for 
 
 ### Proposed System Workflow
 
-<img width="350" height="600" alt="Flow-chart drawio" src="https://github.com/user-attachments/assets/96c5bd78-b657-4637-80ae-e89ef7046841" />
-
+<img width="350" height="500" alt="Flow-chart drawio" src="https://github.com/user-attachments/assets/96c5bd78-b657-4637-80ae-e89ef7046841" />
 
 ---
 
@@ -48,7 +47,7 @@ The trained model is integrated into a lightweight web application designed for 
 
 ### Traditional Railway Inspection Process
 
-<img width="1033" height="275" alt="4" src="https://github.com/user-attachments/assets/0ffe84a7-c3ee-4591-a20a-28e15bf57caf" />
+<img width="600" height="600" alt="4" src="https://github.com/user-attachments/assets/0ffe84a7-c3ee-4591-a20a-28e15bf57caf" />
 
 ### Proposed Automated Inspection System
 
