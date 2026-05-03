@@ -47,7 +47,7 @@ The trained model is integrated into a lightweight web application designed for 
 
 ### Traditional Railway Inspection Process
 
-<img width="1000" height="200" alt="4" src="https://github.com/user-attachments/assets/0ffe84a7-c3ee-4591-a20a-28e15bf57caf" />
+<img width="1033" height="275" alt="4" src="https://github.com/user-attachments/assets/0ffe84a7-c3ee-4591-a20a-28e15bf57caf" />
 
 ### Proposed Automated Inspection System
 
@@ -112,19 +112,19 @@ The proposed web application was developed from scratch using Python Streamlit a
 
 Figure 4.16 illustrates the login interface of the web application, which ensures secure and controlled access for authorised inspection personnel. Upon successful authentication, users are redirected to the home dashboard (Figure 4.17), where uploaded videos, processing status, and overall detection summaries are presented through a clean and intuitive interface.
 
-<img width="976" height="471" alt="image" src="https://github.com/user-attachments/assets/47ec0479-6339-48a9-a8d5-326bdab4c3ed" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47ec0479-6339-48a9-a8d5-326bdab4c3ed" />
 
 After video processing is completed, detected defects—including missing bolts, missing fasteners, and rail cracks—are automatically visualised alongside their corresponding geographical locations. Figure 4.18 presents the map-based visualisation interface, where defect locations are displayed along railway tracks using GPS coordinates. This spatial representation enables maintenance teams to rapidly identify defect-prone segments and prioritise inspection and repair activities.
 
-<img width="922" height="418" alt="image" src="https://github.com/user-attachments/assets/de4e958d-4c1e-4543-acca-79ebf6cab49f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de4e958d-4c1e-4543-acca-79ebf6cab49f" />
 
 All defect-related information is systematically recorded and made accessible for further analysis and decision support. As shown in Figure 4.19, the application provides detailed detection results in a structured tabular format. For each processed image, the system records the image name, detection status, number of detected defects, average confidence score, GPS availability, latitude and longitude, and processing time. This comprehensive presentation allows inspection personnel to efficiently review outcomes, evaluate prediction reliability, and correlate detected defects with precise geographic locations.
 
-<img width="907" height="388" alt="image" src="https://github.com/user-attachments/assets/8abd47c4-3980-45a6-bfae-3a3ecbd4021c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8abd47c4-3980-45a6-bfae-3a3ecbd4021c" />
 
 Furthermore, Figure 4.20 illustrates a snapshot of the MongoDB database, where all detection records are securely stored in a structured format. Each record includes detection identifiers, timestamps, defect categories, confidence scores, and GPS coordinates. The application also generates an overall summary report of detected defects, facilitating data-driven maintenance planning and long-term infrastructure monitoring.
 
-<img width="931" height="490" alt="image" src="https://github.com/user-attachments/assets/d45f7aaf-0c44-4def-93c4-b41e77283f87" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d45f7aaf-0c44-4def-93c4-b41e77283f87" />
 
 By integrating automated defect detection, geolocation capabilities, interactive visualisation, explainability-ready outputs, and persistent data storage, the proposed web application provides a comprehensive, scalable, and deployable solution for intelligent railway track inspection and maintenance operations.
 
