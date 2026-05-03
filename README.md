@@ -47,7 +47,7 @@ The trained model is integrated into a lightweight web application designed for 
 
 ### Traditional Railway Inspection Process
 
-<img width="600" height="600" alt="4" src="https://github.com/user-attachments/assets/0ffe84a7-c3ee-4591-a20a-28e15bf57caf" />
+<img width="1000" height="200" alt="4" src="https://github.com/user-attachments/assets/0ffe84a7-c3ee-4591-a20a-28e15bf57caf" />
 
 ### Proposed Automated Inspection System
 
