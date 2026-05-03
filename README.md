@@ -1,4 +1,4 @@
-# RailTrack Inspector: An Explainable Deep Learning–Driven Web Application for Rail Track Defect Detection with Geolocation
+# RailTrack Inspector: An Explainable Deep Learning Driven Web Application for Rail Track Defect Detection with Geolocation
 
 ## Abstract
 
@@ -39,7 +39,7 @@ The trained model is integrated into a lightweight web application designed for 
 
 ### Proposed System Workflow
 
-<img width="362" height="582" alt="Flow-chart drawio" src="https://github.com/user-attachments/assets/96c5bd78-b657-4637-80ae-e89ef7046841" />
+<img width="350" height="500" alt="Flow-chart drawio" src="https://github.com/user-attachments/assets/96c5bd78-b657-4637-80ae-e89ef7046841" />
 
 ---
 
@@ -100,7 +100,7 @@ This observation confirms that the model has learned meaningful feature represen
 
 ## Explainability with Grad-CAM
 
-<img width="1212" height="2977" alt="3" src="https://github.com/user-attachments/assets/2f50bfb7-404e-4cec-83d1-b1361e1984b4" />
+<img width="350" height="500" alt="3" src="https://github.com/user-attachments/assets/2f50bfb7-404e-4cec-83d1-b1361e1984b4" />
 
 ---
 
