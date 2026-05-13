@@ -2,11 +2,7 @@
 
 ## Abstract
 
-Railways constitute a critical component of global transportation systems; however, existing defect detection methods rely predominantly on manual inspection. Such approaches are inefficient, error-prone, and increasingly inadequate for ensuring safety under growing rail traffic demands. Structural anomalies—including missing fasteners, missing bolts, and rail cracks—often remain undetected through traditional practices, thereby posing significant risks of severe accidents and economic loss.
-
-To address these challenges, this study proposes an explainable deep learning–based web application for automated rail track defect detection with geolocation support. The proposed system employs the Faster R-CNN model, achieving an accuracy of 97%. To enhance interpretability, Gradient-weighted Class Activation Mapping (Grad-CAM) is applied to visualize and validate that the model focuses on meaningful defect regions.
-
-The trained model is integrated into a lightweight web application designed for real-time railway inspection. Data are captured using GPS-enabled cameras mounted on inspection trolleys, enabling real-time inference and location-aware defect mapping. This integration facilitates automated detection, precise localization, and transparent decision support for railway maintenance teams. Although the system is validated on Bangladesh’s railway infrastructure, the proposed framework is scalable and adaptable to global railway networks.
+Railways constitute a critical component of global transportation, yet existing defect detection methods rely predominantly on manual inspection, which is inefficient, error-prone, and increasingly inadequate for ensuring safety under growing rail traffic. Structural anomalies such as missing or fasteners, missing bolts, and rail cracks frequently remain undetected through traditional practices, posing risks of severe accidents and economic loss. To address this challenge, we proposed a deep learning-based web application to detect rail track defects with Location. We deployed the proposed Faster R-CNN model, achieving 97% accuracy. Gradient-weighted Class Activation Mapping (Grad-CAM) was applied to the test data to interpret model predictions and verify that meaningful defect features were learned. The model was integrated into a lightweight web application within the railway inspection system. Railway track data are captured using GPS-enabled cameras mounted on the trolley, enabling real-time inference, geolocation-based defect mapping. This integration not only enables automated detection and precise localization of defects but also provides transparent decision support to railway maintenance teams. While validated on Bangladesh’s railway infrastructure, the framework is scalable and adaptable to global railway networks too.
 
 ---
 
@@ -50,7 +46,13 @@ A comparative performance analysis was conducted to evaluate the effectiveness o
 
 ## Dataset-
 
-https://drive.google.com/file/d/1vA4P1DXYCCCl0qE-uZXWvrapMrHqmeEm/view?usp=drive_link
-https://drive.google.com/file/d/10CpUquL_zzXQEoAJgRc0_exiWBxHPDXs/view?usp=drive_link
+https://drive.google.com/drive/folders/1107xzZFMBYmAMAam4TqvKzr7ynqcpdW4?usp=drive_link
+
+---
+
+## Contact-
+**Email:** mh191867@gmail.com
+
+---
 
 **N.T.** The dataset will be provided upon request.
