@@ -31,13 +31,6 @@ Railways constitute a critical component of global transportation, yet existing 
 
 ---
 
----
-
-## Proposed Methodology
-
-<img width="314" height="534" alt="image" src="https://github.com/user-attachments/assets/92ca2575-e5f1-4284-9012-7075e705cbfd" />
-
-
 ## Performance Comparison of Detection Models
 
 A comparative performance analysis was conducted to evaluate the effectiveness of different object detection models for rail track defect detection. The models were assessed using standard evaluation metrics, including Accuracy, Precision, Recall, and F1-score.
